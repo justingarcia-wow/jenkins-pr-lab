@@ -1,1 +1,3 @@
 Hola Jenkins PR Pipeline
+
+echo "cambio para PR" >> app.txt
