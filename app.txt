@@ -1,3 +1,6 @@
 Hola Jenkins PR Pipeline
 
 echo "cambio para PR" >> app.txt
+nuevo cambio para trigger
+force trigger jenkins
+trigger jenkins Mon May 11 14:11:59 -05 2026
