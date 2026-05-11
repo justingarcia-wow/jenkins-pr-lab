@@ -1,3 +1,4 @@
 Hola Jenkins PR Pipeline
 
 echo "cambio para PR" >> app.txt
+nuevo cambio para trigger
